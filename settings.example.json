@@ -1,0 +1,12 @@
+{
+  "agy_executable": null,
+  "codex_executable": null,
+  "chrome_executable": null,
+  "gemini_profile_dir": null,
+  "gemini_mode": "4 Argon",
+  "agy_model": "gemini-3.8-flash-medium",
+  "codex_model": "gpt-6.1-sol",
+  "browser_port": 9222,
+  "browser_auto_port": true,
+  "data_root": null
+}

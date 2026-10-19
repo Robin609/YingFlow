@@ -1,0 +1,2 @@
+# Build-only tooling; not an application runtime dependency.
+PyInstaller==6.22.3
